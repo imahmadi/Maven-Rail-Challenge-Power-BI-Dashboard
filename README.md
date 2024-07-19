@@ -17,3 +17,7 @@ Some of the information that managers hope to obtain through the created dashboa
 4. Among all ticket types, the Advanced Ticket Type generates the most revenue, contributing $309K, which is 42% of the total revenue.
 5. With an on-time rate of 94%, the main causes of delays are technical and staff-related issues, indicating that there is room for improvement in on-time performance.
 
+
+---
+# Dashboard Preview
+![Page 01](/Preview/01.Overview.png)
